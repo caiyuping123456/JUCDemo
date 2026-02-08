@@ -8,7 +8,7 @@ import static java.lang.Thread.sleep;
  * @date 2026/2/8 13:58
  * @description: 线程中断面试
  */
-public class ThreadInterruptDemo {
+public class _01_ThreadInterruptDemo {
 
     /**
      * 什么是中断机制？
@@ -24,7 +24,8 @@ public class ThreadInterruptDemo {
         //m11();
         //m12();
         //m13();
-        m3();
+        //m3();
+        m4();
     }
     /**
      * 如何中断一个线程
@@ -146,5 +147,17 @@ public class ThreadInterruptDemo {
         });
         t2.start();
 
+    }
+
+
+    /**
+     * 测试interrupted方法
+     */
+    static void m4(){
+        System.out.println(""+Thread.interrupted());
+        System.out.println(""+Thread.interrupted());
+        Thread.currentThread().interrupt();//中断位设置为true
+        System.out.println(""+Thread.interrupted());
+        System.out.println(""+Thread.interrupted());
     }
 }
