@@ -5,7 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/Code01-CompletableFuture/Code01-CompletableFuture.iml" filepath="$PROJECT_DIR$/Code01-CompletableFuture/Code01-CompletableFuture.iml" />
       <module fileurl="file://$PROJECT_DIR$/Code02-Lock/Code02-Lock.iml" filepath="$PROJECT_DIR$/Code02-Lock/Code02-Lock.iml" />
       <module fileurl="file://$PROJECT_DIR$/Code03-LockSupportAndThreadInterrupt/Code03-LockSupportAndThreadInterrupt.iml" filepath="$PROJECT_DIR$/Code03-LockSupportAndThreadInterrupt/Code03-LockSupportAndThreadInterrupt.iml" />
-      <module fileurl="file://$PROJECT_DIR$/JMMModel/JMMModel.iml" filepath="$PROJECT_DIR$/JMMModel/JMMModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code04-JMMModel/Code04-JMMModel.iml" filepath="$PROJECT_DIR$/Code04-JMMModel/Code04-JMMModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code05-VolatileDemo/Code05-VolatileDemo.iml" filepath="$PROJECT_DIR$/Code05-VolatileDemo/Code05-VolatileDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/JUCDemo.iml" filepath="$PROJECT_DIR$/JUCDemo.iml" />
     </modules>
   </component>
