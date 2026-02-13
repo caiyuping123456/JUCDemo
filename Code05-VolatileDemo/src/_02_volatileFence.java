@@ -3,7 +3,7 @@
  * @date 2026/2/13 16:09
  * @description: 业务
  */
-public class volatileFence {
+public class _02_volatileFence {
     /**
      * 内存屏障：
      *      是一种同步屏障指令，是CPU或者编译器对内存随机访问的操作中的一个同步点，使得这个点之前的所有读写操作都在执行后才能进行这个点之后的操作。

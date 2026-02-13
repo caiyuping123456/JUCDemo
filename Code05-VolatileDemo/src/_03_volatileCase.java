@@ -5,7 +5,7 @@ import static java.lang.Thread.sleep;
  * @date 2026/2/13 17:09
  * @description: 业务
  */
-public class volatileCase {
+public class _03_volatileCase {
 
     public static void main(String[] args) {
         m1();

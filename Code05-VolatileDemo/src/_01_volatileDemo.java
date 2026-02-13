@@ -3,7 +3,7 @@
  * @date 2026/2/13 16:05
  * @description: 业务
  */
-public class volatileDemo {
+public class _01_volatileDemo {
     /**
      * 被volatile修饰的变量，有两个特性：
      *      1. 有序性

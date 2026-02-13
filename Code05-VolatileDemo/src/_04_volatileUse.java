@@ -3,7 +3,7 @@
  * @date 2026/2/13 17:44
  * @description: 业务
  */
-public class volatileUse {
+public class _04_volatileUse {
     /**
      * 使用场景：
      *      1. 单一赋值可以，but含复合运算赋值不可以
