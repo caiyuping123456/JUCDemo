@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/Code03-LockSupportAndThreadInterrupt/Code03-LockSupportAndThreadInterrupt.iml" filepath="$PROJECT_DIR$/Code03-LockSupportAndThreadInterrupt/Code03-LockSupportAndThreadInterrupt.iml" />
       <module fileurl="file://$PROJECT_DIR$/Code04-JMMModel/Code04-JMMModel.iml" filepath="$PROJECT_DIR$/Code04-JMMModel/Code04-JMMModel.iml" />
       <module fileurl="file://$PROJECT_DIR$/Code05-VolatileDemo/Code05-VolatileDemo.iml" filepath="$PROJECT_DIR$/Code05-VolatileDemo/Code05-VolatileDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code06-CAS/Code06-CAS.iml" filepath="$PROJECT_DIR$/Code06-CAS/Code06-CAS.iml" />
       <module fileurl="file://$PROJECT_DIR$/JUCDemo.iml" filepath="$PROJECT_DIR$/JUCDemo.iml" />
     </modules>
   </component>
