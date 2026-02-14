@@ -9,7 +9,7 @@ import static java.lang.Thread.sleep;
  * @date 2026/2/14 15:14
  * @description: 业务
  */
-public class CASSpinLockDemo {
+public class _03_CASSpinLockDemo {
 
     public static void main(String[] args) {
         //m2();

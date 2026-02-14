@@ -5,7 +5,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * @date 2026/2/14 14:31
  * @description: 业务
  */
-public class CASDemo {
+public class _01_CASDemo {
     /**
      * 对于i++这种，如果没有使用CAS，多线程系统不会使用原子类保证线程安全
      * 使用CAS就会使用原子类进行保护线程安全
