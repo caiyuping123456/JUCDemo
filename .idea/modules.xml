@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/Code05-VolatileDemo/Code05-VolatileDemo.iml" filepath="$PROJECT_DIR$/Code05-VolatileDemo/Code05-VolatileDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Code06-CAS/Code06-CAS.iml" filepath="$PROJECT_DIR$/Code06-CAS/Code06-CAS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Code07-Atomic/Code07-Atomic.iml" filepath="$PROJECT_DIR$/Code07-Atomic/Code07-Atomic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Code08-ThreadLocal/Code08-ThreadLocal.iml" filepath="$PROJECT_DIR$/Code08-ThreadLocal/Code08-ThreadLocal.iml" />
       <module fileurl="file://$PROJECT_DIR$/JUCDemo.iml" filepath="$PROJECT_DIR$/JUCDemo.iml" />
     </modules>
   </component>
